@@ -1,0 +1,23 @@
+# Chintan Dhokai
+
+> Full-stack developer, Lead at Debutify and technical writer based in Gujarat, India.
+
+## Work
+- Shopify apps: contributed to seven Debutify apps.
+- Debutify dashboard: registration, login, store connections and theme-plan purchases.
+- Agentic AI theme builder: contribution includes Shopify rendering of AI-generated themes.
+- Syngulr.ai: work on UGC, Shopify and SEO agents.
+
+## Technology experience
+React, Next.js, Angular, AdonisJS, PostgreSQL, Stripe, Shopify and AI-agent development.
+
+## Writing
+- [DEV](https://dev.to/chintanonweb)
+- [Medium](https://medium.com/@chintanonweb)
+- [HackerNoon](https://hackernoon.com/u/chintanonweb)
+
+## Contact
+- Email: chintandhokai97@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/chintanonweb/)
+
+This file is a convenience summary, not a guarantee of crawler support or AI citation.

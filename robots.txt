@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chintanonweb.github.io/sitemap.xml
